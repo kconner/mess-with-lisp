@@ -3,5 +3,7 @@ mkShell {
   buildInputs = [
     sbcl
     vim
+    entr
+    tmux
   ];
 }

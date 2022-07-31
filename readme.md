@@ -9,6 +9,7 @@
     - [Dynamic Scoping in Lua](https://leafo.net/guides/dynamic-scoping-in-lua.html)
     - I didn't read [McCarthy, 1960: Recursive Functions of Symbolic Expressions and Their Computation by Machine, Part I](http://jmc.stanford.edu/articles/recursive.html)
 - [The Nature of Lisp](https://www.defmacro.org/ramblings/lisp.html)
+- [How Lisp Became God's Own Programming Language](https://twobithistory.org/2018/10/14/lisp.html)
 
 ## REPL
 

@@ -3,7 +3,7 @@
 ## Study path
 
 - [Beating the Averages](http://www.paulgraham.com/avg.html) (2001)
-  - [High Shool Computing: The Inside Story](https://web.archive.org/web/20031208114627/http://www.trollope.org/scheme.html) (1991)
+  - [High School Computing: The Inside Story](https://web.archive.org/web/20031208114627/http://www.trollope.org/scheme.html) (1991)
   - [What Made Lisp Different](http://www.paulgraham.com/diff.html) (2001)
   - [The Roots of Lisp](http://www.paulgraham.com/rootsoflisp.html) (2001)—see "Complete Article (Postscript)"
     - [Dynamic Scoping in Lua](https://leafo.net/guides/dynamic-scoping-in-lua.html) (2016)

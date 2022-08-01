@@ -10,6 +10,8 @@
     - I didn't read [Recursive Functions of Symbolic Expressions and Their Computation by Machine, Part I](http://jmc.stanford.edu/articles/recursive.html) (McCarthy, 1960)
 - [The Nature of Lisp](https://www.defmacro.org/ramblings/lisp.html) (2006)
 - [How Lisp Became God's Own Programming Language](https://twobithistory.org/2018/10/14/lisp.html) (2018)
+  - [History of Lisp](http://jmc.stanford.edu/articles/lisp.html) (McCarthy, 1978)
+  - I may read [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/index.html) (1984)
 
 ## REPL
 

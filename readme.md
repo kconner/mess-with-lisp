@@ -2,14 +2,14 @@
 
 ## Study path
 
-- [Beating the Averages](http://www.paulgraham.com/avg.html)
-  - [High Shool Computing: The Inside Story](https://web.archive.org/web/20031208114627/http://www.trollope.org/scheme.html)
-  - [What Made Lisp Different](http://www.paulgraham.com/diff.html)
-  - [The Roots of Lisp](http://www.paulgraham.com/rootsoflisp.html) — see "Complete Article (Postscript)"
-    - [Dynamic Scoping in Lua](https://leafo.net/guides/dynamic-scoping-in-lua.html)
-    - I didn't read [McCarthy, 1960: Recursive Functions of Symbolic Expressions and Their Computation by Machine, Part I](http://jmc.stanford.edu/articles/recursive.html)
-- [The Nature of Lisp](https://www.defmacro.org/ramblings/lisp.html)
-- [How Lisp Became God's Own Programming Language](https://twobithistory.org/2018/10/14/lisp.html)
+- [Beating the Averages](http://www.paulgraham.com/avg.html) (2001)
+  - [High Shool Computing: The Inside Story](https://web.archive.org/web/20031208114627/http://www.trollope.org/scheme.html) (1991)
+  - [What Made Lisp Different](http://www.paulgraham.com/diff.html) (2001)
+  - [The Roots of Lisp](http://www.paulgraham.com/rootsoflisp.html) (2001)—see "Complete Article (Postscript)"
+    - [Dynamic Scoping in Lua](https://leafo.net/guides/dynamic-scoping-in-lua.html) (2016)
+    - I didn't read [Recursive Functions of Symbolic Expressions and Their Computation by Machine, Part I](http://jmc.stanford.edu/articles/recursive.html) (McCarthy, 1960)
+- [The Nature of Lisp](https://www.defmacro.org/ramblings/lisp.html) (2006)
+- [How Lisp Became God's Own Programming Language](https://twobithistory.org/2018/10/14/lisp.html) (2018)
 
 ## REPL
 

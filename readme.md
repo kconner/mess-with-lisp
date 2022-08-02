@@ -15,7 +15,7 @@
 - [List of Lisp-family programming languages](https://en.wikipedia.org/wiki/List_of_Lisp-family_programming_languages)
   - [Homoiconicity](https://en.wikipedia.org/wiki/Homoiconicity)
     - [Rebol](https://en.wikipedia.org/wiki/Rebol)
-  - [Scheme (programming language)](https://en.wikipedia.org/wiki/Scheme_(programming_language\))
+  - [Scheme \(programming language\)](https://en.wikipedia.org/wiki/Scheme_(programming_language))
     - [Lisp-1 vs. Lisp-2: The function namespace](https://en.wikipedia.org/wiki/Common_Lisp#The_function_namespace)
       - [Technical Issues of Separation in Function Calls and Value Cells](http://www.nhplace.com/kent/Papers/Technical-Issues.html) (1988)
     - [Read-eval-print loop](https://en.wikipedia.org/wiki/Read–eval–print_loop)

@@ -26,6 +26,7 @@
       - [`call-with-current-continuation`](https://en.wikipedia.org/wiki/Call-with-current-continuation)
         - [Unlambda](https://en.wikipedia.org/wiki/Unlambda)
           - [SKI combinator calculus](https://en.wikipedia.org/wiki/SKI_combinator_calculus)
+          - [Fixed-point combinator](https://en.wikipedia.org/wiki/Fixed-point_combinator)
       - I may read [Inverting back the inversion of control or, Continuations versus page-centric programming](https://pages.lip6.fr/Christian.Queinnec/PDF/www.pdf) (2003)
       - [Spaghetti stack](https://en.wikipedia.org/wiki/Parent_pointer_tree)
 

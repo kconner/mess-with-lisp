@@ -39,3 +39,10 @@
 (print ((true false) and.))
 (print ((false true) and.))
 (print ((false false) and.))
+
+(define y
+  (lambda (f)
+    ((lambda (x)
+       ((f x) x))
+     (lambda (x)
+       ((f x) x)))))

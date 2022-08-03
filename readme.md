@@ -25,6 +25,7 @@
       - I may read [The Discoveries of Continuations](https://www.cs.ru.nl/~freek/courses/tt-2011/papers/cps/histcont.pdf) (1993)
       - [`call-with-current-continuation`](https://en.wikipedia.org/wiki/Call-with-current-continuation)
         - [Unlambda](https://en.wikipedia.org/wiki/Unlambda)
+          - [SKI combinator calculus](https://en.wikipedia.org/wiki/SKI_combinator_calculus)
       - I may read [Inverting back the inversion of control or, Continuations versus page-centric programming](https://pages.lip6.fr/Christian.Queinnec/PDF/www.pdf) (2003)
       - [Spaghetti stack](https://en.wikipedia.org/wiki/Parent_pointer_tree)
 
@@ -40,8 +41,8 @@ sbcl
 ```sh
 nix-shell
 tmux
-vim test.lisp
+vim test-cl.lisp
 ^b"
-./test.sh
+./test-cl.sh
 ^bk
 ```

@@ -4,6 +4,7 @@ mkShell {
     sbcl
     vim
     entr
+    chicken
     tmux
   ];
 }

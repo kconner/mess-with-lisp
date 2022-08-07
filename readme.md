@@ -29,6 +29,14 @@
           - [Fixed-point combinator](https://en.wikipedia.org/wiki/Fixed-point_combinator)
       - I may read [Inverting back the inversion of control or, Continuations versus page-centric programming](https://pages.lip6.fr/Christian.Queinnec/PDF/www.pdf) (2003)
       - [Spaghetti stack](https://en.wikipedia.org/wiki/Parent_pointer_tree)
+  - [PicoLisp](https://en.wikipedia.org/wiki/PicoLisp)
+  - [SIOD](https://en.wikipedia.org/wiki/SIOD)
+  - [Dylan \(programming language\)](https://en.wikipedia.org/wiki/Dylan_(programming_language))
+    - [Harlequin \(software company\)](https://en.wikipedia.org/wiki/Harlequin_(software_company))
+      - [Late binding](https://en.wikipedia.org/wiki/Late_binding)
+      - [LispWorks](https://en.wikipedia.org/wiki/LispWorks)
+        - [Prolog](https://en.wikipedia.org/wiki/Prolog)
+    - [Multiple dispatch](https://en.wikipedia.org/wiki/Multiple_dispatch)
 
 ## REPL
 

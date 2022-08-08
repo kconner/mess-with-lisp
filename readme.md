@@ -38,6 +38,14 @@
         - [Prolog](https://en.wikipedia.org/wiki/Prolog)
     - [Multiple dispatch](https://en.wikipedia.org/wiki/Multiple_dispatch)
   - [Common Lisp](https://en.wikipedia.org/wiki/Common_Lisp)
+    - [Common Lisp Object System](https://en.wikipedia.org/wiki/Common_Lisp_Object_System)
+      - [Generic function](https://en.wikipedia.org/wiki/Generic_function)
+        - I may read [The Art of the Metaobject Protocol](https://en.wikipedia.org/wiki/The_Art_of_the_Metaobject_Protocol) (1991)
+        - [Flavors \(programming language\)](https://en.wikipedia.org/wiki/Flavors_(programming_language))
+        - [CommonLoops](https://en.wikipedia.org/wiki/CommonLoops)
+      - [Circle-ellipse problem](https://en.wikipedia.org/wiki/Circle–ellipse_problem)
+    - [Data-driven programming](https://en.wikipedia.org/wiki/Data-driven_programming)
+    - I may read [Let Over Lambda](https://letoverlambda.com)
 
 ## REPL
 

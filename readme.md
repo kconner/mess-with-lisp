@@ -45,7 +45,16 @@
         - [CommonLoops](https://en.wikipedia.org/wiki/CommonLoops)
       - [Circle-ellipse problem](https://en.wikipedia.org/wiki/Circle–ellipse_problem)
     - [Data-driven programming](https://en.wikipedia.org/wiki/Data-driven_programming)
-    - I may read [Let Over Lambda](https://letoverlambda.com)
+    - I may read [Let Over Lambda](https://letoverlambda.com) (2008)
+    - [Allegro Common Lisp](https://en.wikipedia.org/wiki/Allegro_Common_Lisp)
+    - [CLISP](https://en.wikipedia.org/wiki/CLISP)
+      - [Why CLISP is under GPL](https://sourceforge.net/p/clisp/clisp/ci/default/tree/doc/Why-CLISP-is-under-GPL)
+    - [CMU Common Lisp](https://en.wikipedia.org/wiki/CMU_Common_Lisp)
+    - [Steel Bank Common Lisp](https://en.wikipedia.org/wiki/Steel_Bank_Common_Lisp)
+    - [Dynamic Analysis and Replanning Tool](https://en.wikipedia.org/wiki/Dynamic_Analysis_and_Replanning_Tool)
+    - [Practical Common Lisp](https://en.wikipedia.org/wiki/Practical_Common_Lisp)
+      - I may read [Practical Common Lisp, full text](https://gigamonkeys.com/book/) (2005)
+      - [Practical Common Lisp, Google TechTalk](https://www.youtube.com/watch?v=4NO83wZVT0A) (YouTube)
 
 ## REPL
 

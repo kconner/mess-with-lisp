@@ -55,6 +55,12 @@
     - [Practical Common Lisp](https://en.wikipedia.org/wiki/Practical_Common_Lisp)
       - I may read [Practical Common Lisp, full text](https://gigamonkeys.com/book/) (2005)
       - [Practical Common Lisp, Google TechTalk](https://www.youtube.com/watch?v=4NO83wZVT0A) (YouTube)
+  - [Racket \(programming language\)](https://en.wikipedia.org/wiki/Racket_(programming_language))
+    - [The Racket Manifesto](https://www2.ccs.neu.edu/racket/pubs/manifesto.pdf) (2015)
+- I want to read [Structure and Interpretation of Computer Programs](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs) (1984, 1996)
+  - [SICP, archived lo-fi HTML](https://web.archive.org/web/20220807043536/https://mitpress.mit.edu/sites/default/files/sicp/index.html)
+    - [SICP MIT video lectures](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/) and other course material (2005)
+  - [SICP, HTML5/ePub](https://github.com/sarabander/sicp)
 
 ## REPL
 

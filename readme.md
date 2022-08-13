@@ -65,10 +65,11 @@
   - [Arc \(programming language\)](https://en.wikipedia.org/wiki/Arc_(programming_language))
   - [Lisp Flavored Erlang](https://en.wikipedia.org/wiki/LFE_(programming_language))
   - [Hy](https://en.wikipedia.org/wiki/Hy)
-- I want to read [Structure and Interpretation of Computer Programs](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs) (1984, 1996)
+- [Structure and Interpretation of Computer Programs](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs) (1984, 1996)
   - [SICP, archived lo-fi HTML](https://web.archive.org/web/20220807043536/https://mitpress.mit.edu/sites/default/files/sicp/index.html)
     - [SICP MIT video lectures](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/) and other course material (2005)
   - [SICP, HTML5/ePub](https://github.com/sarabander/sicp)
+  - [SICP, Comparison Edition](https://sicp.sourceacademy.org)
 
 ## REPL
 

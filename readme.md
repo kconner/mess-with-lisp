@@ -70,6 +70,8 @@
     - [SICP MIT video lectures](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/) and other course material (2005)
   - [SICP, HTML5/ePub](https://github.com/sarabander/sicp)
   - [SICP, Comparison Edition](https://sicp.sourceacademy.org)
+- I probably won't read [Paradigms of Artificial Intelligence Programming](https://github.com/norvig/paip-lisp) (1992)
+  - [A Retrospective on PAIP](http://norvig.com/Lisp-retro.html) (1997, 2002)
 
 ## REPL
 

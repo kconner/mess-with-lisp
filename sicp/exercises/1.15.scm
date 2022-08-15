@@ -11,6 +11,6 @@
 ; 12.15/3/3/3/3/3 = 0.05
 
 ; The order of growth in both time and space are
-; theta(log3 n), because when N gets 3 times larger,
+; theta(log n), because when N gets 3 times larger,
 ; one more step is required, and sine runs a linear
 ; recursive procedure, not iterative.

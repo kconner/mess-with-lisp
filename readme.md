@@ -72,6 +72,14 @@
   - [SICP, Comparison Edition](https://sicp.sourceacademy.org)
 - I probably won't read [Paradigms of Artificial Intelligence Programming](https://github.com/norvig/paip-lisp) (1992)
   - [A Retrospective on PAIP](http://norvig.com/Lisp-retro.html) (1997, 2002)
+- [Incompatible Timesharing System](https://en.wikipedia.org/wiki/Incompatible_Timesharing_System)
+  - [Richard Greenblatt \(programmer\)](https://en.wikipedia.org/wiki/Richard_Greenblatt_(programmer))
+  - [Stewart Nelson](https://en.wikipedia.org/wiki/Stewart_Nelson)
+  - [Tom Knight \(scientist\)](https://en.wikipedia.org/wiki/Tom_Knight_(scientist))
+  - [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman)
+  - [SAIL, the Standford AI Lab](https://en.wikipedia.org/wiki/Stanford_University_centers_and_institutes#Stanford_Artificial_Intelligence_Laboratory)
+    - [Foonly](https://en.wikipedia.org/wiki/Foonly)
+    - [Larry Tesler](https://en.wikipedia.org/wiki/Larry_Tesler)
 
 ## REPL
 

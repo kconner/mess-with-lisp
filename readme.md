@@ -80,6 +80,10 @@
   - [SAIL, the Standford AI Lab](https://en.wikipedia.org/wiki/Stanford_University_centers_and_institutes#Stanford_Artificial_Intelligence_Laboratory)
     - [Foonly](https://en.wikipedia.org/wiki/Foonly)
     - [Larry Tesler](https://en.wikipedia.org/wiki/Larry_Tesler)
+- [Revenge of the Nerds](http://www.paulgraham.com/icad.html) (2002)
+  - [Re: Revenge of the Nerds](http://www.paulgraham.com/icadmore.html) (2002)
+  - [Succinctness is Power](http://www.paulgraham.com/power.html) (2002)
+  - I may read [On Lisp](http://www.paulgraham.com/onlisp.html) (1993)
 
 ## REPL
 

@@ -1,0 +1,8 @@
+(define (same-parity a . rest)
+  (define (matches alist predicate)
+    (cond ((null? alist) alist)
+          ((predicate (car alist))
+           (cons (car alist)
+                 (matches (cdr alist) predicate)))
+          (else (matches (cdr alist) predicate))))
+  (cons a (matches rest (if (odd? a) odd? even?))))

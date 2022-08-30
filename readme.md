@@ -86,6 +86,7 @@
   - I may read [On Lisp](http://www.paulgraham.com/onlisp.html) (1993)
 - Emacs
   - Tutorial: C-h t
+  - Info: C-h r i
 
 ## REPL
 

@@ -87,6 +87,11 @@
 - Emacs
   - Tutorial: C-h t
   - Info: C-h r i
+  - Text-Only Mouse: C-h r m Text-Only Mouse
+  - FAQ: C-h C-f
+  - [Being Productive with Emacs](http://web.psung.name/emacs/) (2009)
+    - [Introduction](http://web.psung.name/emacs/2009/part1.html)
+    - [Emacs lisp](http://web.psung.name/emacs/2009/part2.html)
 
 ## REPL
 
@@ -104,4 +109,11 @@ vim test-cl.lisp
 ^b"
 ./test-cl.sh
 ^bk
+```
+
+## Emacs in text mode
+
+```sh
+nix-shell
+emacs --no-window-system
 ```

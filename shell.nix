@@ -6,5 +6,6 @@ mkShell {
     entr
     chicken
     tmux
+    emacs
   ];
 }

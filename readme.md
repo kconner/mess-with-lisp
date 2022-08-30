@@ -84,6 +84,8 @@
   - [Re: Revenge of the Nerds](http://www.paulgraham.com/icadmore.html) (2002)
   - [Succinctness is Power](http://www.paulgraham.com/power.html) (2002)
   - I may read [On Lisp](http://www.paulgraham.com/onlisp.html) (1993)
+- Emacs
+  - Tutorial: C-h t
 
 ## REPL
 

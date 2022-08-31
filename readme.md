@@ -92,6 +92,14 @@
   - [Being Productive with Emacs](http://web.psung.name/emacs/) (2009)
     - [Introduction](http://web.psung.name/emacs/2009/part1.html)
     - [Emacs lisp](http://web.psung.name/emacs/2009/part2.html)
+  - [Scheme on EmacsWiki](https://www.emacswiki.org/emacs/Scheme)
+    - [SLIME Mode](https://www.emacswiki.org/emacs/SlimeMode)
+    - [Geiser](https://gitlab.com/emacs-geiser/geiser)
+      - [geiser-chicken](https://gitlab.com/emacs-geiser/chicken)
+  - [Paredit](https://www.emacswiki.org/emacs/ParEdit)
+    - [Paredit Reference Card](http://pub.gajendra.net/src/paredit-refcard.pdf)
+    - [MELPA](https://www.emacswiki.org/emacs/MELPA)
+      - [ELPA and MELPA](https://emacs.stackexchange.com/a/10501)
 
 ## REPL
 
@@ -113,7 +121,12 @@ vim test-cl.lisp
 
 ## Emacs in text mode
 
+First, [configure emacs to run Chicken for Scheme](https://wiki.call-cc.org/emacs#builtin-scheme-support).
+
 ```sh
 nix-shell
-emacs --no-window-system
+emacs -nw
+C-x 2
+C-x o
+M-x run-scheme
 ```

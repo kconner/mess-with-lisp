@@ -1,2 +1,9 @@
+# macOS
 .DS_Store
+
+# vi
 *.swp
+
+# emacs
+*~
+\#*\#

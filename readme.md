@@ -100,6 +100,7 @@
     - [Paredit Reference Card](http://pub.gajendra.net/src/paredit-refcard.pdf)
     - [MELPA](https://www.emacswiki.org/emacs/MELPA)
       - [ELPA and MELPA](https://emacs.stackexchange.com/a/10501)
+  - [Gerald Sussman: The Role of Programming](https://youtu.be/arMH5GjBwUQ) (2005)
 
 ## REPL
 

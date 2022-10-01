@@ -1,0 +1,22 @@
+(define (encode message tree)
+  (if (null? message)
+      '()
+      (append
+       (encode-symbol (car message)
+		      tree)
+       (encode (cdr message) tree))))
+
+(define (encode-symbol symbol tree)
+  (cond ((leaf? tree)
+	 (if (eq? symbol (symbol-leaf tree))
+	     '()
+	     (error "bad symbol: ENCODE-SYMBOL symbol")))
+	((element-of-set? symbol (symbols (left-branch tree)))
+	 (cons 0 (encode-symbol symbol (left-branch tree))))
+	(else (cons 1 (encode-symbol symbol (right-branch tree))))))
+
+(encode-symbol 'A sample-tree)
+(encode-symbol 'B sample-tree)
+(encode-symbol 'C sample-tree)
+(encode-symbol 'D sample-tree)
+(encode-symbol 'invalid sample-tree)

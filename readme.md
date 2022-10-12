@@ -103,6 +103,7 @@
   - [Gerald Sussman: The Role of Programming](https://youtu.be/arMH5GjBwUQ) (2005)
     - [We Really Don't Know How to Compute](https://youtu.be/HB5TrK7A4pI) (2011)
   - [Guy Steele: Growing a Language](https://youtu.be/lw6TaiXzHAE) (1998)
+  - [Code Quarterly's 2011 Q&A with Rich Hickey](https://gist.github.com/rduplain/c474a80d173e6ae78980b91bc92f43d1) (2011)
 
 ## REPL
 

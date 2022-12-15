@@ -104,6 +104,7 @@
     - [We Really Don't Know How to Compute](https://youtu.be/HB5TrK7A4pI) (2011)
   - [Guy Steele: Growing a Language](https://youtu.be/lw6TaiXzHAE) (1998)
   - [Code Quarterly's 2011 Q&A with Rich Hickey](https://gist.github.com/rduplain/c474a80d173e6ae78980b91bc92f43d1) (2011)
+- [A Possible Vision for Macros in Swift](https://gist.github.com/DougGregor/4f3ba5f4eadac474ae62eae836328b71#an-approach-to-macros-in-swift) (2022)
 
 ## REPL
 

@@ -146,3 +146,16 @@ C-x 2
 C-x o
 M-x run-scheme
 ```
+
+## LEM
+
+With `~/.roswell/bin` in path
+
+```sh
+brew install roswell
+ros follow-dependency=t install lem-project/lem
+lem file.lisp
+C-x C-z
+M-o
+C-A-x
+```

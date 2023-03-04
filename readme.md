@@ -71,6 +71,7 @@
       - [YouTube Playlist](https://www.youtube.com/playlist?list=PLE18841CABEA24090)
   - [SICP, HTML5/ePub](https://github.com/sarabander/sicp)
   - [SICP, Comparison Edition](https://sicp.sourceacademy.org)
+  - [SICP: The End of an Era](https://www.youtube.com/watch?app=desktop&v=OgRFOjVzvm0) (2021)
 - I probably won't read [Paradigms of Artificial Intelligence Programming](https://github.com/norvig/paip-lisp) (1992)
   - [A Retrospective on PAIP](https://norvig.com/Lisp-retro.html) (1997, 2002)
 - [Incompatible Timesharing System](https://en.wikipedia.org/wiki/Incompatible_Timesharing_System)
@@ -106,6 +107,15 @@
   - [Guy Steele: Growing a Language](https://youtu.be/lw6TaiXzHAE) (1998)
   - [Code Quarterly's 2011 Q&A with Rich Hickey](https://gist.github.com/rduplain/c474a80d173e6ae78980b91bc92f43d1) (2011)
 - [A Possible Vision for Macros in Swift](https://gist.github.com/DougGregor/4f3ba5f4eadac474ae62eae836328b71#an-approach-to-macros-in-swift) (2022)
+- [CS 378, Symbolic Programming](https://www.cs.utexas.edu/users/novak/cs378.pdf)
+- [Common Lisp](https://lisp-lang.org)
+  - [Awesome Common Lisp](https://awesome-cl.com)
+  - [Coalton](https://github.com/coalton-lang/coalton)
+  - [Roswell](https://github.com/roswell/roswell)
+  - [LEM](https://github.com/lem-project/lem)
+    - [Lisp Mode](https://github.com/lem-project/lem/wiki/Lisp-Mode)
+    - [Fukamachi's configuration](https://github.com/fukamachi/.lem)
+    - [Pareto](https://github.com/40ants/lem-pareto)
 
 ## REPL
 

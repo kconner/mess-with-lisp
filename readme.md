@@ -120,14 +120,14 @@
 ## REPL
 
 ```sh
-nix-shell
-sbcl
+brew install roswell
+roswell run
 ```
 
 ## Edit a script and run it on save
 
 ```sh
-nix-shell
+brew install tmux entr
 tmux
 vim test-cl.lisp
 ^b"
@@ -135,21 +135,24 @@ vim test-cl.lisp
 ^bk
 ```
 
-## Emacs in text mode
+## Scheme in Emacs
 
 First, [configure emacs to run Chicken for Scheme](https://wiki.call-cc.org/emacs#builtin-scheme-support).
 
 ```sh
-nix-shell
-emacs -nw
+brew install --cask emacs
+brew install chicken
+emacs file.scm &
 C-x 2
 C-x o
 M-x run-scheme
+C-x o
+C-A-x
 ```
 
-## LEM
+## Common Lisp in LEM
 
-With `~/.roswell/bin` in path
+With `~/.roswell/bin` in path:
 
 ```sh
 brew install roswell

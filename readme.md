@@ -116,6 +116,9 @@
     - [Lisp Mode](https://github.com/lem-project/lem/wiki/Lisp-Mode)
     - [Fukamachi's configuration](https://github.com/fukamachi/.lem)
     - [Pareto](https://github.com/40ants/lem-pareto)
+  - [Common Lisp HyperSpec](http://www.lispworks.com/documentation/HyperSpec/Front/index.htm)
+  - [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
+  - [A Road to Common Lisp](https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/) (2018)
 
 ## REPL
 
@@ -162,3 +165,26 @@ C-x C-z
 M-o
 C-A-x
 ```
+
+## Results
+
+SICP used Scheme for its first edition and the second edition I studied, then JS for the third. As I understand it, MIT continued to teach the course to new students until recently revamping the curriculum and teaching Python, a different beast. In [SICP: The End of an Era](https://www.youtube.com/watch?app=desktop&v=OgRFOjVzvm0), Sussman discusses MIT's switch away from the Structure and Interpretation of Computer Programs text and course.
+
+SICP taught the way computing works from first principles, emphasizing the way parts can be wisely combined to create complex utility while meaningful abstractions keep them manageable. They tie to concrete hardware only at the end. I worked through the end of chapter 3 of 5 in the SICP second edition text, and I took in the entire lecture series.
+
+Sussman's inclination that led him to stop teaching the material, such that MIT eventually replaced the curriculum, was that by the late 90s the component parts you'd build with became so complex themselves that you'd never understand what you built out of them top to bottom. Maybe you'll understand your own layer, but not the whole thing. He thought they should emphasize empirically understanding those component parts as black boxes, maybe never seeing inside.
+
+Indeed a few years ago I spent months understanding how Unix behaved in the 70s, and now I've spent months on the other computation lineage besides Fortran, looking for insight precisely because our systems are still made out of that older stuff we don't understand. I found intuition, the kind you no longer get for free, because these things are out of sight, out of mind. And they were out of sight by the time Sussman gave up teaching the class in 97, when I was entering high school. In my career the component parts have almost always been huge black boxes and I have increasingly wished for complexity to shrink away, such that you could understand it all again. SICP is a great way to collect all the essentials. You could build the whole world with this much, and if things really collapsed, this is how I'd rebuild.
+
+But I also can't disagree with the change in emphasis. It's increasingly relevant as AI systems—effectively unknowable in concrete terms—are incorporated as component parts of applications. The way forward is to find ways to sail on the ocean. When you can't understand the whole machine, mechanical sympathy has to be enough.
+
+What I'm taking away from this:
+
+- General insights about code and architecture, free of influence by style or syntax; a fresh set of fundamentals without the presumption of Java or C
+- Clearer perception of essential and accidental complexity
+- Much hobby project potential. For any project, I feel like I could just sit down and make it.
+- Emacs key habits in Cocoa text fields
+- Fondness for parentheses
+- Greater appreciation for REPL-assisted development, playgrounds, etc.
+- Unexpected perspective about how learning within our field has evolved and why
+- A fractal image of computation described by the ☯ eval-apply cycle. Gnarly.

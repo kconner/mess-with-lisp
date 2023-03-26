@@ -119,6 +119,19 @@
   - [Common Lisp HyperSpec](http://www.lispworks.com/documentation/HyperSpec/Front/index.htm)
   - [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
   - [A Road to Common Lisp](https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/) (2018)
+- [Lisp in Vim](https://susam.net/blog/lisp-in-vim.html) (2019)
+  - [vim-plug](https://github.com/junegunn/vim-plug#usage)
+  - [Get Started with Vlime and SBCL](https://susam.net/blog/lisp-in-vim.html#get-started-with-vlime-and-sbcl)
+    - [vlime/vlime](https://github.com/vlime/vlime#quickstart) (2017)
+      - [Vlime Demo](https://asciinema.org/a/129756)
+    - [bhurlow/vim-parinfer](https://github.com/bhurlow/vim-parinfer)
+    - [kovisoft/paredit](https://github.com/kovisoft/paredit/blob/master/plugin/paredit.vim)
+    - [junegunn/rainbow-parentheses](https://github.com/junegunn/rainbow_parentheses.vim)
+    - [Reddit thread about Vlime using a read-only REPL](https://www.reddit.com/r/Common_Lisp/comments/10wuc3q/comment/j7prxd7/) (2023)
+  - [Get Started with Vlime and SBCL](https://susam.net/blog/lisp-in-vim.html#get-started-with-slimv-and-sbcl)
+    - [kovisoft/slimv](https://github.com/kovisoft/slimv) (2009)
+    - [Slimv Tutorial](https://kovisoft.github.io/slimv-tutorial/tutorial.html) (Updated 2020)
+    - [Roswell recommended setup for Slimv](https://roswell.github.io/Initial-Recommended-Setup.html)
 
 ## REPL
 
@@ -164,6 +177,17 @@ lem file.lisp
 C-x C-z
 M-o
 C-A-x
+```
+
+## Slimv
+
+```sh
+# Need a vim with python
+brew install vim
+vim hello.lisp
+,c
+C-w C-w
+,e
 ```
 
 ## Results

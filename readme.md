@@ -123,8 +123,8 @@
 ## REPL
 
 ```sh
-brew install roswell
-roswell run
+brew install roswell rlwrap
+rlwrap ros run
 ```
 
 ## Edit a script and run it on save

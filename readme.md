@@ -118,7 +118,6 @@
     - [Pareto](https://github.com/40ants/lem-pareto)
   - [Common Lisp HyperSpec](http://www.lispworks.com/documentation/HyperSpec/Front/index.htm)
   - [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
-  - [A Road to Common Lisp](https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/) (2018)
 - [Lisp in Vim](https://susam.net/blog/lisp-in-vim.html) (2019)
   - [vim-plug](https://github.com/junegunn/vim-plug#usage)
   - [Get Started with Vlime and SBCL](https://susam.net/blog/lisp-in-vim.html#get-started-with-vlime-and-sbcl)
@@ -132,6 +131,8 @@
     - [kovisoft/slimv](https://github.com/kovisoft/slimv) (2009)
     - [Slimv Tutorial](https://kovisoft.github.io/slimv-tutorial/tutorial.html) (Updated 2020)
     - [Roswell recommended setup for Slimv](https://roswell.github.io/Initial-Recommended-Setup.html)
+- [A Road to Common Lisp](https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/) (2018)
+  - [Common Lisp: A Gentle Introduction to Symbolic Computation](https://www.cs.cmu.edu/~dst/LispBook/) (1990)
 
 ## REPL
 

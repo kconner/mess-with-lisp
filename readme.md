@@ -133,6 +133,7 @@
     - [Roswell recommended setup for Slimv](https://roswell.github.io/Initial-Recommended-Setup.html)
 - [A Road to Common Lisp](https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/) (2018)
   - [Common Lisp: A Gentle Introduction to Symbolic Computation](https://www.cs.cmu.edu/~dst/LispBook/) (1990)
+- [Janet for Mortals](https://janet.guide) (2023)
 
 ## REPL
 

@@ -134,6 +134,7 @@
 - [A Road to Common Lisp](https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/) (2018)
   - [Common Lisp: A Gentle Introduction to Symbolic Computation](https://www.cs.cmu.edu/~dst/LispBook/) (1990)
 - [Janet for Mortals](https://janet.guide) (2023)
+  - [Janet Language](https://janet-lang.org)
 
 ## REPL
 
@@ -190,6 +191,15 @@ vim hello.lisp
 ,c
 C-w C-w
 ,e
+```
+
+## Janet
+
+```sh
+brew install janet
+vi foo.janet
+:term
+echo foo.janet | entr -c janet foo.janet
 ```
 
 ## Results

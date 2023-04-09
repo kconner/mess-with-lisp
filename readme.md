@@ -110,6 +110,8 @@
 - [CS 378, Symbolic Programming](https://www.cs.utexas.edu/users/novak/cs378.pdf)
 - [Common Lisp](https://lisp-lang.org)
   - [Awesome Common Lisp](https://awesome-cl.com)
+    - [Learn X in Y minutes Where X=Common Lisp](https://learnxinyminutes.com/docs/common-lisp/)
+    - [Lisp Koans](https://github.com/google/lisp-koans) (2013)
   - [Coalton](https://github.com/coalton-lang/coalton)
   - [Roswell](https://github.com/roswell/roswell)
   - [LEM](https://github.com/lem-project/lem)

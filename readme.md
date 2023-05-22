@@ -120,6 +120,7 @@
     - [Pareto](https://github.com/40ants/lem-pareto)
   - [Common Lisp HyperSpec](http://www.lispworks.com/documentation/HyperSpec/Front/index.htm)
   - [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
+  - [Articulate Common Lisp](http://articulate-lisp.com/)
 - [Lisp in Vim](https://susam.net/blog/lisp-in-vim.html) (2019)
   - [vim-plug](https://github.com/junegunn/vim-plug#usage)
   - [Get Started with Vlime and SBCL](https://susam.net/blog/lisp-in-vim.html#get-started-with-vlime-and-sbcl)

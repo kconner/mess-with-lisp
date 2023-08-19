@@ -139,6 +139,7 @@
   - I may read [Common Lisp Recipes](http://weitz.de/cl-recipes/) (2016)
 - [Janet for Mortals](https://janet.guide) (2023)
   - [Janet Language](https://janet-lang.org)
+- [The Rise of "Worse is Better"](https://web.archive.org/web/20000818033806/http://www.ai.mit.edu/docs/articles/good-news/subsection3.2.1.html)
 
 ## REPL
 

@@ -123,6 +123,7 @@
     - [cl-cookieproject](https://github.com/vindarel/cl-cookieproject)
     - [ASDF, Another System Definition Facility](https://asdf.common-lisp.dev)
   - [Articulate Common Lisp](http://articulate-lisp.com/)
+  - [Quickdocs](https://quickdocs.org)
 - [Lisp in Vim](https://susam.net/blog/lisp-in-vim.html) (2019)
   - [vim-plug](https://github.com/junegunn/vim-plug#usage)
   - [Get Started with Vlime and SBCL](https://susam.net/blog/lisp-in-vim.html#get-started-with-vlime-and-sbcl)

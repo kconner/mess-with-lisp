@@ -5,6 +5,6 @@
                         :components ((:file "greet")))))
 
 (defsystem :hello/bin
-  :depends-on (:hello)
+  :depends-on (:hello :unix-opts)
   :components ((:module :src
                         :components ((:file "main")))))

@@ -51,6 +51,7 @@
       - [Why CLISP is under GPL](https://sourceforge.net/p/clisp/clisp/ci/default/tree/doc/Why-CLISP-is-under-GPL)
     - [CMU Common Lisp](https://en.wikipedia.org/wiki/CMU_Common_Lisp)
     - [Steel Bank Common Lisp](https://en.wikipedia.org/wiki/Steel_Bank_Common_Lisp)
+      - [SBCL Manual](http://www.sbcl.org/manual/index.html)
     - [Dynamic Analysis and Replanning Tool](https://en.wikipedia.org/wiki/Dynamic_Analysis_and_Replanning_Tool)
     - [Practical Common Lisp](https://en.wikipedia.org/wiki/Practical_Common_Lisp)
       - I may read [Practical Common Lisp, full text](https://gigamonkeys.com/book/) (2005)

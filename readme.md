@@ -126,6 +126,7 @@
   - [Articulate Common Lisp](http://articulate-lisp.com/)
   - [Quickdocs](https://quickdocs.org)
   - [Common Lisp in Practice](https://atomized.org/blog/2020/07/06/common-lisp-in-practice/) (2020)
+    - [cl-launch](https://www.cliki.net/CL-Launch)
 - [Lisp in Vim](https://susam.net/blog/lisp-in-vim.html) (2019)
   - [vim-plug](https://github.com/junegunn/vim-plug#usage)
   - [Get Started with Vlime and SBCL](https://susam.net/blog/lisp-in-vim.html#get-started-with-vlime-and-sbcl)

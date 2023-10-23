@@ -1,6 +1,4 @@
-(load "packages.lisp")
-(load "src/greet.lisp")
-(load "src/main.lisp")
+(ql:quickload :hello/bin)
 
 (sb-ext:save-lisp-and-die
   "hello"

@@ -146,8 +146,10 @@
 - [Janet for Mortals](https://janet.guide) (2023)
   - [Janet Language](https://janet-lang.org)
 - [The Rise of "Worse is Better"](https://web.archive.org/web/20000818033806/http://www.ai.mit.edu/docs/articles/good-news/subsection3.2.1.html)
-- [Gamedev in Lisp](https://awkravchuk.itch.io/cl-fast-ecs/devlog/622054/gamedev-in-lisp-part-1-ecs-and-metalinguistic-abstraction) (2023)
+- [Gamedev in Lisp. Part 1: ECS and Metalinguistic Abstraction](https://awkravchuk.itch.io/cl-fast-ecs/devlog/622054/gamedev-in-lisp-part-1-ecs-and-metalinguistic-abstraction) (2023)
   - [Using a Highly Dynamic Language for Development](https://github.com/Shinmera/talks/blob/master/gic2021-highly-dynamic/paper.pdf) (2021)
+  - [Gradual typing](https://en.wikipedia.org/wiki/Gradual_typing)
+  - [Lisp in Space](https://corecursive.com/lisp-in-space-with-ron-garret/)
 
 ## REPL
 

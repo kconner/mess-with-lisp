@@ -150,6 +150,8 @@
   - [Using a Highly Dynamic Language for Development](https://github.com/Shinmera/talks/blob/master/gic2021-highly-dynamic/paper.pdf) (2021)
   - [Gradual typing](https://en.wikipedia.org/wiki/Gradual_typing)
   - [Lisp in Space](https://corecursive.com/lisp-in-space-with-ron-garret/)
+- [CIEL](http://ciel-lang.org/)
+  - [lisp-repl-core-dumper](https://gitlab.com/ambrevar/lisp-repl-core-dumper)
 
 ## REPL
 
